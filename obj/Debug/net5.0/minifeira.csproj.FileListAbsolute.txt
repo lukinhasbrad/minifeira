@@ -1,0 +1,16 @@
+C:\Users\Braad\Desktop\Dotnet\minifeira\bin\Debug\net5.0\minifeira.exe
+C:\Users\Braad\Desktop\Dotnet\minifeira\bin\Debug\net5.0\minifeira.deps.json
+C:\Users\Braad\Desktop\Dotnet\minifeira\bin\Debug\net5.0\minifeira.runtimeconfig.json
+C:\Users\Braad\Desktop\Dotnet\minifeira\bin\Debug\net5.0\minifeira.runtimeconfig.dev.json
+C:\Users\Braad\Desktop\Dotnet\minifeira\bin\Debug\net5.0\minifeira.dll
+C:\Users\Braad\Desktop\Dotnet\minifeira\bin\Debug\net5.0\ref\minifeira.dll
+C:\Users\Braad\Desktop\Dotnet\minifeira\bin\Debug\net5.0\minifeira.pdb
+C:\Users\Braad\Desktop\Dotnet\minifeira\obj\Debug\net5.0\minifeira.csprojAssemblyReference.cache
+C:\Users\Braad\Desktop\Dotnet\minifeira\obj\Debug\net5.0\minifeira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Braad\Desktop\Dotnet\minifeira\obj\Debug\net5.0\minifeira.AssemblyInfoInputs.cache
+C:\Users\Braad\Desktop\Dotnet\minifeira\obj\Debug\net5.0\minifeira.AssemblyInfo.cs
+C:\Users\Braad\Desktop\Dotnet\minifeira\obj\Debug\net5.0\minifeira.csproj.CoreCompileInputs.cache
+C:\Users\Braad\Desktop\Dotnet\minifeira\obj\Debug\net5.0\minifeira.dll
+C:\Users\Braad\Desktop\Dotnet\minifeira\obj\Debug\net5.0\ref\minifeira.dll
+C:\Users\Braad\Desktop\Dotnet\minifeira\obj\Debug\net5.0\minifeira.pdb
+C:\Users\Braad\Desktop\Dotnet\minifeira\obj\Debug\net5.0\minifeira.genruntimeconfig.cache
